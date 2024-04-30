@@ -9,7 +9,6 @@
 * Create a new Django project:
     * `django-admin startproject birthday_wishes`
     * `cd birthday_wishes`
-    * `cd birthday_wishes`
 
 **2. Application Creation:**
 
